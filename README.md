@@ -33,7 +33,7 @@ Voici une liste des projets inclus dans ce dépôt :
   
     **Méthode 2 : Vérification des résultats avec la méthode des grid search validation, Random search enfin Approches bayésiennes**
 
-2. **[Détection de la malaria sur les images cellulaires et déploiement avec AWS du modèle optimal](./model_detect_malaria_and_deployment/README.txt)**
+2. **[Détection de la malaria sur les images cellulaires et déploiement avec AWS du modèle optimal](./model_detect_malaria_and_deployment/README.md)**
    - Implémentation des 2 modèles de DL de traitement d'images, CNN et ResNet
    - Sélection du modèle optimal après évaluation des metrics
    - Déploiement du modèle optimal sur AWS
