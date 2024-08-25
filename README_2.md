@@ -19,24 +19,24 @@ Ce dépôt inclut une variété de projets de data science mettant en oeuvre dif
 
 - **Machine Learning** : Applications de modèles d'apprentissage supervisé et non supervisé.
 - **Modélisation prédictive** : Création et évaluation de modèles pour des prévisions ou des classifications.
+- **Traitement du langage naturel (NLP)** : Analyse de texte et traitement linguistique.
 - **Analyse exploratoire des données (EDA)** : Nettoyage, visualisation et compréhension des données.
 
 ## Projets
 
 Voici une liste des projets inclus dans ce dépôt :
 
-1. **Méthode 1 : [Impact des Hyperparametres (HP) dans la détection d'anomalies](./Impact Hyper Parameters/README.md)**
-   - Prétraitement des données compatibles avec les modèles
-   - Implémentation des modèle afin d'identifier potentiellement les optimaux.
-   - Sélection des 3 modèles optimaux de ML et 2 optimaux de DL
-   - Présentation des meilleures associations des HP
-  
-    **Méthode 2 : Vérification des résultats avec la méthode des grid search validation, Random search enfin Approches bayésiennes**
+1. **[Analyse des ventes de produits](./projets/analyses-ventes/README.md)**
+   - Analyse des tendances de ventes, visualisations et recommandations.
 
-2. **[Détection de la malaria sur les images cellulaires et déploiement avec AWS du modèle optimal](./model_detect_malaria_and_deployment/README.txt)**
-   - Implémentation des 2 modèles de DL de traitement d'images, CNN et ResNet
-   - Sélection du modèle optimal après évaluation des metrics
-   - Déploiement du modèle optimal sur AWS
+2. **[Prédiction des prix de l'immobilier](./projets/prediction-prix-immobilier/README.md)**
+   - Modélisation des prix de l'immobilier à l'aide de techniques de régression.
+
+3. **[Analyse des sentiments sur les réseaux sociaux](./projets/analyse-sentiments-reseaux-sociaux/README.md)**
+   - Analyse des sentiments à partir de données textuelles collectées sur les réseaux sociaux.
+
+4. **[Détection de fraudes financières](./projets/detection-fraudes-financieres/README.md)**
+   - Création d'un modèle pour identifier des transactions suspectes.
 
 ## Technologies Utilisées
 
@@ -46,3 +46,4 @@ Voici une liste des projets inclus dans ce dépôt :
 ## Contribution
 
 Nous restons ouverts aux remarques, avis et contributions. Merci d'avance quant à ce.
+

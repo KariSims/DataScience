@@ -1,0 +1,10 @@
+# txt files to ignore
+/README_2.txt
+/.gitignore.txt
+
+# models files
+/rapport
+/model_detect_malaria_and_deployment/app/model_CNN.h5
+/model_detect_malaria_and_deployment/app/model_ResNet.h5
+/model_detect_malaria_and_deployment/TP_Paludisme-20240321T230955Z-001.zip
+/*.zip
