@@ -1,5 +1,6 @@
 # txt files to ignore
-/README_2.md
+/DataScience/README_2.md
+/DataScience/.gitignore.txt
 /.gitignore.txt
 gitignore
 
