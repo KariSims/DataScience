@@ -25,7 +25,7 @@ Ce dépôt inclut une variété de projets de data science mettant en oeuvre dif
 
 Voici une liste des projets inclus dans ce dépôt :
 
-1. **Méthode 1 : [Impact des Hyperparametres (HP) dans la détection d'anomalies](./Impact Hyper Parameters/README.md)**
+1. **Méthode 1** : **[Impact des Hyperparametres (HP) dans la détection d'anomalies](./Impact Hyper Parameters/README.md)**
    - Prétraitement des données compatibles avec les modèles
    - Implémentation des modèle afin d'identifier potentiellement les optimaux.
    - Sélection des 3 modèles optimaux de ML et 2 optimaux de DL

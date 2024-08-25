@@ -1,6 +1,7 @@
 # txt files to ignore
-/README_2.txt
+/README_2.md
 /.gitignore.txt
+gitignore
 
 # models files
 /rapport
